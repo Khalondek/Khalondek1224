@@ -1,0 +1,26 @@
+{
+  "name": "Ada Roy",
+  "age": 22,
+  "address": {
+    "street": "Kikizu Boulevard",
+    "city": "Rocozvap",
+    "state": "NH",
+    "zip": "84676"
+  },
+  "contact": {
+    "phone": "(351) 564-2492",
+    "servicePhone": "800147555"
+  },
+  "birthday": "1981-03-08T18:15:48.121Z",
+  "ip": "124.59.103.153",
+  "foo": "bar",
+  "profile": {
+    "about": "Pi pava je wehel arzurfek juga fotit lah os awjat joopu culohufon cimojto obbevpa perparus gicapolo puvedgof. Lu lad koslup hucoba cagagi tahisas uma tos uh meulju ohamatkak so jarmir faselsu geciiva nidge rikocve. Fa lazdasih lahkan bo boz niw bilu rehbad zopeb un ri afupe hi sursojpa. Lutnuf zovit pom onwo ito duju jud vebwozet kotku bo rumus dowun re legfetaf hadhap.",
+    "bio": "Pesip riruruka voga nanme tape makip se itetu moci budirceh nipakak amusaiku tielet ru. Ico kiwup opu ja kikaftip kuvja ro tokcargi wedjuntu ehbip hebtaver wuuzopu ja kezeoto mowsed joh bac. Cahuw fonwes dulug hooj doruloj dutusu mirudih pojavof ipurahev enza hujuh co."
+  },
+  "apiKey": "6797d3f2ce8f9f22b14448b4f4a6f8ebf61b0309c8697b0358c2baf5cd8e9ac9",
+  "currency": {
+    "code": "JPY",
+    "name": "Japan Yen"
+  }
+}
