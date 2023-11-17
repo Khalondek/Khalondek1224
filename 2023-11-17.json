@@ -1,0 +1,26 @@
+{
+  "name": "Maria Peterson",
+  "age": 60,
+  "address": {
+    "street": "Lafo Avenue",
+    "city": "Mejeneg",
+    "state": "IL",
+    "zip": "10681"
+  },
+  "contact": {
+    "phone": "(326) 547-3499",
+    "servicePhone": "800656794"
+  },
+  "birthday": "1985-04-15T12:25:04.977Z",
+  "ip": "79.33.169.72",
+  "foo": "bar",
+  "profile": {
+    "about": "Sapitsa vuwsiir zeh dov su loshi pe fizduoto ipule gaj tapbow manib lawuwi dejbienu wejri podoj koc. Iponah borsigzak turen avzi lekuko we uwbopka agubuku wos iwunep ortibe do etiharaw gelsaut ve. Alezopu ko sol cefvut iro kefif du inaneat rav uhkir ig vicokip evnajudi zuvcumi mafmelni. Sanopef oj hauw unnaw ve le gepiwohu cokkec wiv casevhu siso eramu tajerit. Pufzeb tehu visa li cok caeco fopzo esuma ce ted bojnottuk mikurwag midpu cuk rem uk fuljavub. Tupdi oc awuwa bu zogte jo mogu le ad gionima huwig cuccud zilvu jibcul bi ejja un ijofil. Pah gebva hodlevur nutiz evu ce ok or rep suoj gikvikegu za uctu gi ziwa.",
+    "bio": "Hakavow gope ikro em jisebe pedva eroticad owaka enpaho gijat fuj wozgekap ma guvupeti. Zufu es fuc fev wafdu mamem esiij orevo kip icgu doh viis ruja gij kipowzi wis. Tepipi sod liheganuj ehmozsic luz hep aleimur vew pigotak pas igowecce kokuf dipis. Ci var to muweri razhub lifewrim ro idojucip ge fijwahek alaipu ikeno. Oko fijatuka laj jecokdof mabwiztaf mikita naztu ib udi pit ni reihwo wejbocse. Patadepo kaj povtu voheh hiscaz ga rovkon lederleg tikapo mazpiuw ihifo evutoko kis luvanjal wag tu."
+  },
+  "apiKey": "c9db1a6b6025c5c7f5f00d8a6a02eecb5848d8c6774ca7218b388c8fc4a47a05",
+  "currency": {
+    "code": "NZD",
+    "name": "New Zealand Dollar"
+  }
+}
