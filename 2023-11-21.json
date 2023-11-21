@@ -1,0 +1,26 @@
+{
+  "name": "Shawn Hernandez",
+  "age": 30,
+  "address": {
+    "street": "Bejvu Glen",
+    "city": "Ciomuow",
+    "state": "UT",
+    "zip": "94032"
+  },
+  "contact": {
+    "phone": "(823) 655-2312",
+    "servicePhone": "800869265"
+  },
+  "birthday": "2001-12-08T12:15:31.559Z",
+  "ip": "189.40.240.141",
+  "foo": "bar",
+  "profile": {
+    "about": "Iscawwa jatnuldo ive jotcip suh fakic ivi dammi idhe efoubigan wowi awso. Fusu kefkup dar onebuto ju aba mo odo se vu hugese bu ziju ibcihuh lam esumoh hevvu. Ko bu kalfa wonzut welpu epevol vaszigwit itiedaob wogtoc ibsev bi weah pustis cagto kugejez asos mipru. Sigtoho giul jivha lo oke teddomak gejtol tif huzig bu mo bujiej sep ut da hinjevsa. Jin rorzubwov aruso miutonil imsutgu jop sewga lihzem nu feigiru esu naga pup ru ti.",
+    "bio": "Modosi ucez vabuupe vini upu heiccol epjipcu widuriko wotow gu kawfozpa zakcohtug ezine cujibpi gulal ije. Jo erojibok pinenfa co bisbo zeton parocuci vuzbozih covdal ocaec me con fot bomelijif ivso ila carifobo. Sapede gesoj levcaub vitpef foscelput hac boraije rukehuh awowiog nereeli di kivnoawo sachu jihoc ikubve. Durwif viz cis fupur roetju ivmofdi guupe mog uca uvhowe melzedrih zoj dac rieduce."
+  },
+  "apiKey": "698d431376773ad6943b80dc8bbc0800a02dd08243c9f67e32f0ed8055593e88",
+  "currency": {
+    "code": "BGN",
+    "name": "Bulgaria Lev"
+  }
+}
