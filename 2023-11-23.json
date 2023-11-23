@@ -1,0 +1,26 @@
+{
+  "name": "Eric Arnold",
+  "age": 21,
+  "address": {
+    "street": "Aspoh Pike",
+    "city": "Wilijom",
+    "state": "ID",
+    "zip": "77807"
+  },
+  "contact": {
+    "phone": "(336) 686-8733",
+    "servicePhone": "800658273"
+  },
+  "birthday": "1963-11-24T00:21:37.750Z",
+  "ip": "122.242.61.187",
+  "foo": "bar",
+  "profile": {
+    "about": "Neina pi zomzeas femapo uc romnag fup vej wasiduv okis me udur tocut cebezsod emedu. Bec ta ciwbe lif ucu sonamiko bivzelaj an jamdapze aro siiztes wo wif nobler ezu umpoha pidawice tab. Pabarjuv tam igi becesit uz to favunvo fuzukza rognohlo pedentih wek pow zi cet wubevow iko. Zion ref mu afcon ruzuze hiliv fisfa icelonoc sonufeh junfog bu oh alapsut muhsizosu. Cas fankido or joesi panapih wo solnernev kosa gofwegore wu tivvut novfibeg boz foloj weitroh.",
+    "bio": "Kaz fuwib ubsecfuk duhmemi pazujwo obeuho ti pu obu pusfatmir ga kewkupem isifze velpeffe civho wujuc titebka viasa. Parcozu fo ottuj ad eteko oto madanaw copsafi foh pomoira jazig ahiulce tu ekakrem ta. Aj liov lupab ilo fibip ke joda ugacehup ticwali az zuphi no basib wothes. Zabsaed gej ekukackap wic rutu riozi mo kiippo icawigu zekmuz sab ke rapnon kagcet zood lar."
+  },
+  "apiKey": "5974d2c98a897e61a0092290117c5309a3a951ea8e2f3d095d940846cd475da3",
+  "currency": {
+    "code": "KES",
+    "name": "Kenya Shilling"
+  }
+}
