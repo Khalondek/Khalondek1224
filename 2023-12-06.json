@@ -1,0 +1,26 @@
+{
+  "name": "Leroy Garrett",
+  "age": 36,
+  "address": {
+    "street": "Ojwa Turnpike",
+    "city": "Osotdog",
+    "state": "ID",
+    "zip": "79173"
+  },
+  "contact": {
+    "phone": "(648) 837-6740",
+    "servicePhone": "800383851"
+  },
+  "birthday": "1980-05-23T14:09:12.180Z",
+  "ip": "243.97.225.114",
+  "foo": "bar",
+  "profile": {
+    "about": "Nucza odeuf teja jabesca fak zoejru os ahdaal im niliwpeb ruhde wurkaghug ikboz bimic zorlo cidhirej. Jigpavkad mo ohu imegiv mohsovip wepo paw gatiseh lout letihaj osi rovafcun. Uvu lu ki anifen focinup lotcuvej rajbi zok pikati co sowgupe huppuwep zam wun fuhu dal mim jo.",
+    "bio": "Ubo fuzve fa viuva suz enjap ke neffeso zu oppap sajez we sipsorzok. Ejazel raddab obi ti homa leg sosnif cep pulumpum akeud tedgehhoj ika vucvav wap tugitez ko. Anho no cohbuk armupav difezju sarmoc seseme febazo mu huvkugim gihiw do cobojuk suenuifu jup vahi."
+  },
+  "apiKey": "7175b4e4cc02184ce9fedca943e0f69359a92aa9110c81f40d06533e190d29bc",
+  "currency": {
+    "code": "BHD",
+    "name": "Bahrain Dinar"
+  }
+}
