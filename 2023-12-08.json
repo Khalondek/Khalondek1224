@@ -1,0 +1,26 @@
+{
+  "name": "Jeff Abbott",
+  "age": 54,
+  "address": {
+    "street": "Fogu Path",
+    "city": "Nutetjoh",
+    "state": "IL",
+    "zip": "23969"
+  },
+  "contact": {
+    "phone": "(526) 460-5951",
+    "servicePhone": "800295478"
+  },
+  "birthday": "1997-09-12T04:51:39.888Z",
+  "ip": "68.175.124.88",
+  "foo": "bar",
+  "profile": {
+    "about": "Afede panuh fij tavaer anuc edouwusa fazees ja apesugjo ri cois inmogsud. Jug gelifav uctufana lih vaz da sowdiuvu duweru herhuj uzuzohad vof ogiwene. Jiz kunwomlu wafu ituli otoidi wop vuho deh jifsogev waspab zuagfa pi ek cottodod.",
+    "bio": "Lolra migafbaz akibeuwe kozicebi mukvamnob tuctu if ifi lon nol purjuwat komivo fowak ge ijnej ja egureok su. Pin wu lokokko vonfabnas ahvobja osve robuvvah va woedu itoverdo ket ezi. Jilassa en wacpu ca pawgus nuul ewa cik kic fopdew suzokvaw un purnel kiwfe em."
+  },
+  "apiKey": "f0ee4b1a57cfc443bc74362c3697f373056450f42921273e7a6d51ca107adbed",
+  "currency": {
+    "code": "IMP",
+    "name": "Isle of Man Pound"
+  }
+}
