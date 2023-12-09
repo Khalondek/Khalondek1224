@@ -1,0 +1,26 @@
+{
+  "name": "Juan Douglas",
+  "age": 57,
+  "address": {
+    "street": "Galzu Highway",
+    "city": "Sicfahap",
+    "state": "CO",
+    "zip": "71235"
+  },
+  "contact": {
+    "phone": "(455) 279-7880",
+    "servicePhone": "800548152"
+  },
+  "birthday": "1988-02-28T12:40:11.508Z",
+  "ip": "202.75.70.253",
+  "foo": "bar",
+  "profile": {
+    "about": "Hic vacolug jel fuhe ritipat vumezho okoge ju zi juw ugogo lo canbifnuk. No mukgati woez ukucowton ripodru nu jakik ne gu kij ladupa lewu pad hutwi ci. Tol bifi ah kagifazi uji zegigo cuzpoc kelugwow mapfaled reto luf peedwi zoz hengow. Ed ehi ruhi mova atsar ironiga luwod matse jecjur zi cu cujap ogi zero futul amse rimuv. Podetopa fupporte oho ovajepuk bepuze visovhun ecebtog fiobo lifuz wa timmoon dekheh riplis ceuzmef lizaksa dupidba fiepoose. Gokfimeda hi vopwum hirwin at gajril da icato econebzes heh dodig zib elo vaukoisi.",
+    "bio": "Ravu hewzo pu nuim amoneale reajiji kilri as ca fe utehaz ujrasu zipzonad ejatelfi woen zotikanar epvohuv. Naewi ditiofa bi fate obu fofi hudommit tozilsov nacavpe parsok dujgu wuzkoji baz ucnawno hin cilhofij. Rin hunko pacekop getkera nac zij jowoc ibadi secavted jaw kacapo ifuvaaj cuvas jibupife vef."
+  },
+  "apiKey": "8d000cf62f54a6a3f11cd2c0cf0c57d5d1babe83dfb3f6678dc3baec66c49335",
+  "currency": {
+    "code": "PYG",
+    "name": "Paraguay Guarani"
+  }
+}
