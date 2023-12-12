@@ -1,0 +1,26 @@
+{
+  "name": "William Ray",
+  "age": 43,
+  "address": {
+    "street": "Niuw View",
+    "city": "Balifu",
+    "state": "NY",
+    "zip": "40808"
+  },
+  "contact": {
+    "phone": "(784) 220-9141",
+    "servicePhone": "800886667"
+  },
+  "birthday": "1979-08-06T03:06:07.131Z",
+  "ip": "20.2.50.110",
+  "foo": "bar",
+  "profile": {
+    "about": "Febhujuc hu dori epva riz zec uc cezusef tusuvuf ac jejpozuv ewiuk tevezgoh fiipa hugaze uba. Molcukur luticdat fuflode fodukpel nugi tuhje nalvukam kokuv mutvim nudwuzaho kefkanafi uvuipcer pioma kap kuwhopa defag divigdi. Janooz izi takivoj ce pe repuhid cobo nakik kito vun deuv li mo tujmegdup ud ten foet. Tazi om oghobum vuf oc uneselo sof tu ugazadkad ku tadnuhbi kulofiv vaf big tesatu fuk.",
+    "bio": "Me ehrij lifolaso dulkep al zika olbo go wimkali bu boefaoj kulicu jin zu. Igzaiz sa ohzitev li co zi lu dag va ku ceve da abeuwaog. Begi gibowlaj he butal geb jah agaohu hijfu awi ezikuj gaaw az capag si na rogit. Ilo iciro gonma ovaga ruvud ricom jecjuz bolikowi kofgebo wekadte zakuoh pol zu. Gungo dahaweli raape ezufazib urecabap ufewizboj cas otke netru iwitelet rif felausi reca mikuf. Puwif lij dutanic kuc ib olpe re ke uhkumli mamcen ranum lejuvub mawujepe fol dutlum suvwo. Bed reini dipji ref pomaw ha toc vunza ninacar lesjopur dorkisog ekdec kiupput."
+  },
+  "apiKey": "332e34b86561ff6e806cfd11ea3ad2e482cc7bec46c1f7ef1232a5cfba76f3df",
+  "currency": {
+    "code": "LBP",
+    "name": "Lebanon Pound"
+  }
+}
