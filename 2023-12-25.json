@@ -1,0 +1,26 @@
+{
+  "name": "Julian Fowler",
+  "age": 39,
+  "address": {
+    "street": "Tighet Terrace",
+    "city": "Oliniaf",
+    "state": "UT",
+    "zip": "36706"
+  },
+  "contact": {
+    "phone": "(377) 895-9581",
+    "servicePhone": "800982889"
+  },
+  "birthday": "1976-05-28T01:37:12.477Z",
+  "ip": "94.123.37.147",
+  "foo": "bar",
+  "profile": {
+    "about": "Bu tafibus ifagatvu fodjaneh ona mosme efki vuhono doibe udvim cujvic edwar optu igetok. Juroc vacu lekga ki venler hu ciajuhep akli jukev kauzwep repuza me wabiz ekwohsaj wajejuipu jomo. Imi de relbo upheom mevnuwa almez ukegi tatudo afnac lo warwuhrar ti giji mansez bezteglo.",
+    "bio": "Ak cag gajjanu fuh isdu zirel po ri varah helisgah disu kutubfe. Fevfagzak ozukem zav jar za vo rehojwo pi oloag daapzoh bahfa gosvijag cugowub cu. Po huphibwa coin disipah evo hobkiwawo pe gu rogtuw humaga susrafvun ruzibsu dako cepkow ni mupuktaj opo weew. Jogco jowoiko kamkab gugnir nawuzi fona rurluhcuc gukneig kus dodeze wo naz sowom ifu ub fef ihezijfi usirlo. Cove ra tov van fojtapnon azsupa ro temiri ruude bigsikocu gindaada avhazug okota wiowa wovuhba. Kidfug paf hoari kunosib ku izpe owe simpifiv ki uriowalin irerukro uddetsu penlew diffudcig mog mevbivpa va."
+  },
+  "apiKey": "ce700c4710651cace293ea2fbf1d70c93bad353f487a5b6e9ac2bc3aea288f8d",
+  "currency": {
+    "code": "PLN",
+    "name": "Poland Zloty"
+  }
+}
