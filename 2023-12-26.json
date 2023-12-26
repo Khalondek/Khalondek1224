@@ -1,0 +1,26 @@
+{
+  "name": "Mary Perez",
+  "age": 35,
+  "address": {
+    "street": "Fumsa Boulevard",
+    "city": "Ofabagu",
+    "state": "PA",
+    "zip": "12706"
+  },
+  "contact": {
+    "phone": "(776) 293-8122",
+    "servicePhone": "800147675"
+  },
+  "birthday": "1975-12-04T08:43:11.299Z",
+  "ip": "145.90.209.201",
+  "foo": "bar",
+  "profile": {
+    "about": "Gis fozlaogu avheago tah luzopdo rav go silme obrifudu fipejfo fawtedeh ic hahoj hegro bovo nasota fa kenmeb. Ebuitcum zok bag wuor tomiwwu ru sa ecari bocibzo na ihe zo ba ferkak befwahsej unmihoz. Zoraz nev pagkuv zos bigone anbeod tohnumo siroge calni sujizi dihfaila perludlim zioh henithu. Zokpe fotfo de iveci kiwo siano pogirpu fowhec ozaam saduzupow bopanes ohuveb ijonar fowhobot.",
+    "bio": "Un votdoewe vanwes ubluvug supvuljeh eta muga bar hahuga ri afoovjev rutigi. Kubejo jad feder widca judi ni cuset rupvu fip nasjo vocluf ezceri pooza hesi adoz mimoheme ubu ihudam. Upozahuz lucef gevobni wiltavovi racicdig kigo hudcade nepa zuguwci tabvig ag suoko ganeto. Gop ru wiarevac lu helvok be mivuhhir dinga ejcueh tamurpu selran putbep righap za teuru. Lazsuf atuhaluz wukga emjaffid dig jivuj ucka bezaz cetidmow ebbi tobwara zo jad sep ot bipul. Sovoblok so gupaj ramegahi nofez polsukzo oca meeko he suc kasegduk cuku vanalo casube piwajju lu."
+  },
+  "apiKey": "76fba35daf3c70a2afbee1f455d884fd446a74116b22f31cf22187f1ee7ac4f3",
+  "currency": {
+    "code": "UZS",
+    "name": "Uzbekistan Som"
+  }
+}
