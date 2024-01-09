@@ -1,0 +1,26 @@
+{
+  "name": "Jorge McKinney",
+  "age": 39,
+  "address": {
+    "street": "Emopa Square",
+    "city": "Zofaze",
+    "state": "CT",
+    "zip": "49800"
+  },
+  "contact": {
+    "phone": "(727) 275-5789",
+    "servicePhone": "800859674"
+  },
+  "birthday": "1962-09-11T10:30:04.970Z",
+  "ip": "232.231.104.192",
+  "foo": "bar",
+  "profile": {
+    "about": "Taruje ekulade riet kekjade jeiw fac ref ru dakatrig fepligjo jos domla. Loaro kadci jijfobol tigzufa wo zun pe wibefa tihiwe wos lapezuk ace jore sehsu veh uruzo. Gu cano bo curbera zomnu tojaw ohobu rekzefo wirlaunu wo irlagaz feepado ot.",
+    "bio": "Ve ruvaduj bukem danael ivawnal irunicce newra ribud sutmis cadoge cividri zijki duw efu hik odudul. Mujpatad amol la ej jot zibkihun zor bahlahez latas ba mih ucafa jaoghu luzvebup. Sidug saota wovtos etseme ewegevsut guhguf som vufihwol iczidoro usovibi wurjob latazcac be co gitidivaz pawwi ak adge. Jisit simur rikhej vevzukeg pikzamki ru co galdib enmukmat ejuoti zu ive kodetzok wuoku ja uce ponjid ujo. Pu govla kepu hej jibvu foup nopul me raz wuvranig gojuvad boli. Gavipto ela maake fupcejvik vazakpev dasewfum sac me uk sena ufawegatu beeniraz. Ok usujipar siz to megapjic rodes cowurav lutkom lihza webtacso modki acigihus cemih peksil kip nivi winuf bu."
+  },
+  "apiKey": "d7486f9c3eeefdffa53b17da52e943cd98769757dba51598453e1dd5f19a437b",
+  "currency": {
+    "code": "TTD",
+    "name": "Trinidad and Tobago Dollar"
+  }
+}
