@@ -1,0 +1,26 @@
+{
+  "name": "Scott Santiago",
+  "age": 34,
+  "address": {
+    "street": "Vooj Ridge",
+    "city": "Budkolho",
+    "state": "RI",
+    "zip": "99823"
+  },
+  "contact": {
+    "phone": "(969) 708-9606",
+    "servicePhone": "800768632"
+  },
+  "birthday": "1993-08-11T04:59:12.732Z",
+  "ip": "3.0.89.248",
+  "foo": "bar",
+  "profile": {
+    "about": "Zisnadru razunhe zi udomusoc lafsa fibposfa pavoglim ulcijhow goc laecke lihobaise joheb nafi ejigovov ji uborfeg ce. Curgako mas des ij ponarog lujuke mihawe ocilenu tasigow dada mo vuuru mafe. Nic kunurigir latipwa paih ulhaf purjid ju epihair bopbadat lilhato zeaj puzacov womosac ke vabri nowied. Bamgub vescuz da bupuhrod boljaj pik zagcetu veorawu inevi va volso cewew kikpid cacukewu.",
+    "bio": "Sudekaz icu ura peveg dolpu mozomoc jufwe tubtufo owoiju uhe akmepzi urun. Tuvugo vo besetuw zi pa gohoh awpu vizij efenaf paunu jelate kak eta rezmaave savil donusneh iwje wuddad. Osiiw wuhagumic iratelhic bu mepevvuk ma neid udagizug fepju haudedav rolibe opinow hozlivob fovicfu ospo epasi tisiz kofunneg."
+  },
+  "apiKey": "58988d479bc22e9d9baf02a1ce6b946eaffdf3f1a8f4f705defe28c9cd8666a4",
+  "currency": {
+    "code": "CHF",
+    "name": "Switzerland Franc"
+  }
+}
