@@ -1,0 +1,26 @@
+{
+  "name": "Alex Porter",
+  "age": 31,
+  "address": {
+    "street": "Fepi Road",
+    "city": "Hozaviwe",
+    "state": "CO",
+    "zip": "50939"
+  },
+  "contact": {
+    "phone": "(638) 999-1604",
+    "servicePhone": "800456976"
+  },
+  "birthday": "1999-05-18T23:05:05.833Z",
+  "ip": "98.99.199.71",
+  "foo": "bar",
+  "profile": {
+    "about": "Lakducor mivik dacga agufazot zemfazi ga kulonja cod adcin ho hemfi tajedabi cu tezzoedu ligmi zakabif caho. Ruliwu mas zavguta gicme kehmulwe sar wup ow guv rizat cew nococ. Guveja re en wujovpi aronve wi pizah dopow apakso je jegomce pic dujjetbes. Javfib fig lafemuz abi huhu zat oreuvooci muuwa zecug tipi musica okeafoifo wozjac rumle cijufa ufi je tifo.",
+    "bio": "Ornoze lup iwifonul sorrij dabho uwi ces cinje ejbedbaj jewem laliko sijojij hec nojwe dik. Vig fukpi rim ako lu ozfu ribha tire tiuneuk jeretka ovaih gij datwev ra evi iduape. Ab pelokige hasgaje rongi ve ric ziuk veuf wunwolfuf valedaw nimahazi za fatzal. Sabnanap nulisi horabpe ugahik hawsam hotugki jepem ako depwinte dorte umovugav celleuvo ajtuneba erukrup fepsibap gu ta. Dukizaco sugajdar lufu salorcog va covu kem seri ci pulu gekju itapencab gaeki kiz osaeda zujjirpus zebpecut."
+  },
+  "apiKey": "75c83084a2c4588ec7c07d5d863b8b6d15b15348c7be1ec51df41041f8644512",
+  "currency": {
+    "code": "SGD",
+    "name": "Singapore Dollar"
+  }
+}
