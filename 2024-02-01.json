@@ -1,0 +1,26 @@
+{
+  "name": "Blanche Fields",
+  "age": 48,
+  "address": {
+    "street": "Zotvo Road",
+    "city": "Nanuhado",
+    "state": "RI",
+    "zip": "02238"
+  },
+  "contact": {
+    "phone": "(365) 441-4242",
+    "servicePhone": "800479866"
+  },
+  "birthday": "1979-05-09T08:45:01.823Z",
+  "ip": "238.27.139.132",
+  "foo": "bar",
+  "profile": {
+    "about": "Je bubnuh oleiko zuehene igmogap keira zowmukro tevonu ejma ubiorse uv puski ike def zihjo. Igdos hid mim zotlik ip peset zu ivzutic gefvife tewop ucsus iz. Pujudik li remejuje odi vicim wikefni tuj ca sor bejum lijhu wasol. Sankuzug deg kuwuvre lohvapme igi rakzer tojoga hoti ca az jap nad ehgeg tidsadgen zojcivog.",
+    "bio": "Moopava fuzop weh indaj widbu ven fohikkip ha ez tit miolaga do hu iruzilon zoave mapwamjo. Lu ge zuum niwaw segzorwup buutuboh naikaec macaevi uzivu apluk vet bo socopo ac zudjik. Wisezpul oteojoc ro owomin wibo li zedruhi paka titsalom rave kowwis ushin zukpidig."
+  },
+  "apiKey": "a47e9ff34d9af719e2debbdd17ee0031276db29c36688e505d1249b76db3ea45",
+  "currency": {
+    "code": "MNT",
+    "name": "Mongolia Tughrik"
+  }
+}
