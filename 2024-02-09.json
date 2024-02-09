@@ -1,0 +1,26 @@
+{
+  "name": "Bess Pope",
+  "age": 35,
+  "address": {
+    "street": "Sabik Mill",
+    "city": "Oboarga",
+    "state": "VT",
+    "zip": "42342"
+  },
+  "contact": {
+    "phone": "(743) 770-6045",
+    "servicePhone": "800971851"
+  },
+  "birthday": "1961-11-19T01:36:56.744Z",
+  "ip": "140.43.240.101",
+  "foo": "bar",
+  "profile": {
+    "about": "Cosha bijlauvo izmihan diffidhu uknevi poiziid varfubide ro ezaez kehozujek zubwap tab nevjompuw. Apowus jegtimdof vugowibo nu naz hec june pitteg bomunaula feacu bohiffas punado. Wumripniz didup tebmevo tan rip hiznod fabi sazjumno nidam esaekno nidpoize atuelagu.",
+    "bio": "Su ehu cazen foluje opi lav pa luvopari ar ebuhevbi ibekefu daz pempuf gijil dipafa. Ul oboozemo te ku vaur ozupa fo he ziosama zo gakazilo zi silhovi bohici bukciivu asa. Sap mi kekufhif os zesufgu ipoli teafuzim abetod vijdokcod osrezi pewge reb it pa gasmef wifedi wer hobe. Tufew dorapru nike do ekata cotfoh puttefer higmahum nahjis kiijevo isu fikovreh pe ni zibu puviz."
+  },
+  "apiKey": "27c23b9085f385406bfd42d2846272e2f96269a174902e0de67c2adf753631f8",
+  "currency": {
+    "code": "SCR",
+    "name": "Seychelles Rupee"
+  }
+}
