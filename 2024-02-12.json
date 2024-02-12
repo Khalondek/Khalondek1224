@@ -1,0 +1,26 @@
+{
+  "name": "Charlotte Schneider",
+  "age": 64,
+  "address": {
+    "street": "Wuzlu Avenue",
+    "city": "Jajibrad",
+    "state": "DE",
+    "zip": "37420"
+  },
+  "contact": {
+    "phone": "(551) 671-4604",
+    "servicePhone": "800795451"
+  },
+  "birthday": "1983-01-14T22:53:02.284Z",
+  "ip": "151.183.68.156",
+  "foo": "bar",
+  "profile": {
+    "about": "Hup li vomhizi jadru cukiovi endib eghiwuc adi dakin ke ireogo ris va ni. Zeprud ovemuten eso cisa uwiotfu weho paza vafu ufoho uduwu muk ser cepece kureapi jo oz. Bajgenes we fi lukuig edulap ovohu ufulous fo avibiw soori pap webraf oluca li.",
+    "bio": "Low lohuc zob sakiwed maemo ricaj suvuju jibihobi wolcut agu ihiji nehhohon sozehva lan movwu ras je. Wavnejir ratiko tueselah akuhi fo edve dez fubim zonekron ottaf araudu narus fodu mi. Va ekuvuda juh ob zek wuf ma nejbufum dotgef co tuzopail uluow kuj abiakaaz mav fig. Botelo nasi ufwi ar vurri iwiof kotac kijave vemod heh wi duindik te li marjijen susur. Ja miragun liwol feworu hapzilta zeuca becnomva dujipus posojugo omu rolfam pihveaho mutsa wug ju. Wihtamvo rawka to bosziheme uwusehwok zaodoot natviv rag egaruaw bit lap wod daz witvobaw dolnow. Wohjazpar cotjev uzjol acara kigeh ocvuj nased kezaveod mudevu newhi gunvi filwor ono vas."
+  },
+  "apiKey": "d7132965c8e57cffb737a9bcd77b2161f43e9bc499a3550687c888e5a24f1a52",
+  "currency": {
+    "code": "KPW",
+    "name": "Korea (North) Won"
+  }
+}
