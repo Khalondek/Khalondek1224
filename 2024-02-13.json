@@ -1,0 +1,26 @@
+{
+  "name": "Victor Horton",
+  "age": 31,
+  "address": {
+    "street": "Baknij View",
+    "city": "Lacowu",
+    "state": "AL",
+    "zip": "71424"
+  },
+  "contact": {
+    "phone": "(873) 919-2123",
+    "servicePhone": "800582566"
+  },
+  "birthday": "2003-09-29T19:32:46.327Z",
+  "ip": "162.212.48.131",
+  "foo": "bar",
+  "profile": {
+    "about": "Honsun be su efo we buwhimom ce les oziro esajid jupva jekjazus diiweja ehabe bin uzina. Aken imseof midgi vodriwdem efsuc mutte vuk co aka cilcala bemebufe az jengufnor jihugat woodi bidlagva hi duicjak. Eli hata sufurez da ebsol anuzabba aja ap kidjocsar be kad se suda. Ap izi umaho va divmor gihwobo hovih cicizeis cim kojnedtu nudwu ohorojfif binihgow lari. Sa tojinvo hoh pilhalme iwjihwu bi be rozohe wuzleik kipali hunod suronohe henne ured ucjud.",
+    "bio": "Lirup nedo gapihal hozficwod ju ot at me juw kireuhi la vihite. Gebo mifilju naov hacaj puf jebac afoja kojnofap uzbakicu kaodku lec gihcafrun cehin benvaw oji kij zig tobje. Ike ji tejujnu go loolato wisja jainun apa vasiva runij kudiplim ja hijropgo lutu."
+  },
+  "apiKey": "04d293f4385fa55f81575a946f198055351242750fb9e5a534620a670053de8e",
+  "currency": {
+    "code": "BMD",
+    "name": "Bermuda Dollar"
+  }
+}
