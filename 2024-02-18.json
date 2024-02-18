@@ -1,0 +1,26 @@
+{
+  "name": "Aiden Hunter",
+  "age": 54,
+  "address": {
+    "street": "Rilker Pass",
+    "city": "Rohlaov",
+    "state": "ME",
+    "zip": "84242"
+  },
+  "contact": {
+    "phone": "(457) 651-1433",
+    "servicePhone": "800448968"
+  },
+  "birthday": "1982-03-09T09:57:14.809Z",
+  "ip": "82.168.8.157",
+  "foo": "bar",
+  "profile": {
+    "about": "Gewal some kipbewze boghiril hec jatarze nukpo kelem nuw duw mipop mim vi. Tospere olamalori tiruzeb kaduf sucgeud zo pocutuok suthulle socehuv tupjauwo za wu vir siji. Oso asgo guwkubcar negdut ozkuge evu zobfe ohdoru izoasa bud siwusaef tius gob suj.",
+    "bio": "Ba mupi pi dor wuzedor ma jafse janluzlas viape ciacpi peeni cecos fog. Togzo ca sabbakuv garzeke owjuclu zo uw jiras cetcolas pibig vovoti cizo. Baki apissu oj ade pidongac di hasoon ejakajuv keke emuob pakok okkek ehmo vib vilow huv jajucog. Meho nahuv bejjo maz ho kokji ugewopza orevicaz fosut fad su kak ulo. Mikja rim pa hacicob betfihmu tebnesup wan moho hunkaudo pajnejag re esfe kopmefa lugokni fonfe zuduv. Ke pu izisoste ritnon jonci hew bupoze de has soj henzewfom jawikofu resetjuf. Nesu mu robaewa fevad tireiw utvohpi toovoro heela simki faricil isorug jimnevevu."
+  },
+  "apiKey": "feec514dcac90d7ba1f8e62cd9ef8a3f627830e52ea5f3b3aa4346ebb1eac229",
+  "currency": {
+    "code": "ETB",
+    "name": "Ethiopia Birr"
+  }
+}
