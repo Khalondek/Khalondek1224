@@ -1,0 +1,26 @@
+{
+  "name": "Ida Day",
+  "age": 31,
+  "address": {
+    "street": "Limaz Pike",
+    "city": "Hazliuw",
+    "state": "OK",
+    "zip": "76390"
+  },
+  "contact": {
+    "phone": "(416) 248-6572",
+    "servicePhone": "800929915"
+  },
+  "birthday": "1991-04-09T12:18:23.853Z",
+  "ip": "152.212.199.109",
+  "foo": "bar",
+  "profile": {
+    "about": "Gicik pecemtag mivo sup bowaza et cacanja kogno kuigi cortono tonewaf defamu noipib gehhov juc uruzomus. Su nek muv amsij evi ruvna ku dev gohozibu tukhez hiumpu dap bilinog cogwiet ezvien zinovem. Le efu sa fiw ditoc kopnok ki rijehdid wafmepen megud lu cojvufo oja zize. Tas re tajsub lak fifoh luf wogofuroz hucze visuvac gopopkuj araeleruv jo dowoje tuvuhbes anazeceh zisu igora.",
+    "bio": "Poigco nuwpoljil huced birel um nezav minoseva ku defak aca sodovopi ro asu cican itsu pu. Womsoef wafzesa is pinucda jar bijgu vo ajobevik suru bob fitu adma omo jime meranjo. Joari malseg boce orvehoh olfagso bouvo lih umo ja vu cabotjeh tiw sueretal."
+  },
+  "apiKey": "0386f6632f382e2bd827808f2ce7fb45e8760633703578c1eadbae6312303ae3",
+  "currency": {
+    "code": "SVC",
+    "name": "El Salvador Colon"
+  }
+}
