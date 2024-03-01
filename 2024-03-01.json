@@ -1,0 +1,26 @@
+{
+  "name": "Kate Anderson",
+  "age": 50,
+  "address": {
+    "street": "Higapi Road",
+    "city": "Ruumoje",
+    "state": "VT",
+    "zip": "28208"
+  },
+  "contact": {
+    "phone": "(336) 581-8342",
+    "servicePhone": "800284391"
+  },
+  "birthday": "1982-10-14T04:25:51.587Z",
+  "ip": "227.152.152.19",
+  "foo": "bar",
+  "profile": {
+    "about": "Ge wawjig fefavcuc vepce wuwu reh sefecuz zuseh letulma asru zogiciz tep far weohonah riosjis memze. Gulek gehpekmez ho wirsi fo di uw elu lopa lezce deifu fa vom ed jafwuvru maeggo oliulo. Pudju emime me atili agi posigva dukejgut inbi le kokiva opcef bugakbig uda ab durwamwi te. Ejzik wufpi gu natof eco azi wizha ke gusmufomu vum siudo fubazo bawwusub woful ke.",
+    "bio": "Ef ijol vi ru bufbahmo wibefin kaz lozlawof vo juju monbu gitatre. Zod bougtad secip bed lo kur uravas zicogu aco vezas nutvit colretzim teh ozvujak es pez. Lieglut fawjisok heswultu efeaju nahaduke fa vango cufiv zogcow ur inosawpuv nisfo dizav."
+  },
+  "apiKey": "c6d2d37f559852faafb585a02f94891931656d842fca78ed654996ad258ba559",
+  "currency": {
+    "code": "IDR",
+    "name": "Indonesia Rupiah"
+  }
+}
