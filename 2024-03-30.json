@@ -1,0 +1,26 @@
+{
+  "name": "Ian Manning",
+  "age": 34,
+  "address": {
+    "street": "Watre Highway",
+    "city": "Gilazev",
+    "state": "WI",
+    "zip": "28543"
+  },
+  "contact": {
+    "phone": "(414) 406-2175",
+    "servicePhone": "800832376"
+  },
+  "birthday": "1991-05-02T03:34:00.780Z",
+  "ip": "57.29.87.179",
+  "foo": "bar",
+  "profile": {
+    "about": "Ciineiru ireri ramuzwo zifrusfer pil walkezmi ja awalaha nufban horittiv bel zeura hebsirak valfu rasgones fasucsi. Cupo zajorep ocrorbe pofijum zeral ikca dene bi voszime fizval tef ta wuemecof acejo tefipo. Si eze gilejew wanijze fi cajuzor atgupi ber cabup recowuka fuh zez.",
+    "bio": "Zej micwe soubu lar wo kodfav dakzihmis zamid ha leude zofe ij jug tagrumag rutgugnaw vigwum ipku. Ebaziah balhifmus abema novondip me junuj tutuzuw bud sucipo jofvu dagpi ciuw zalna luz. Mazla foga osakdej pobil eztejer basgum lid cutetu nah verepecar fi ukmo ceh. Urolajbu edupid wokoho bamifzof cora cobi hoctoz fokre salheklud do lunabbej diho."
+  },
+  "apiKey": "cada096fecbf2a7196a5e58b8b422924617ded97e85bb6fb476b9d7b4a2f23ef",
+  "currency": {
+    "code": "KWD",
+    "name": "Kuwait Dinar"
+  }
+}
