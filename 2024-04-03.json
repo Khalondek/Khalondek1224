@@ -1,0 +1,26 @@
+{
+  "name": "Barbara Thompson",
+  "age": 64,
+  "address": {
+    "street": "Joze Point",
+    "city": "Dokared",
+    "state": "VA",
+    "zip": "36480"
+  },
+  "contact": {
+    "phone": "(223) 264-2162",
+    "servicePhone": "800433964"
+  },
+  "birthday": "1997-03-11T00:10:19.647Z",
+  "ip": "222.214.22.170",
+  "foo": "bar",
+  "profile": {
+    "about": "Lenra vaegji ed wudmod osnug ujeokom sumizpuc taem rilokivo kejekoked otva jufav bas geh okanon tifzuwku pi ditok. Naug muf sohmo uleput ruwluwoz cuupmi etdadopo giertem da wo rum ug upe havusowa juranma ippizub. Ini azpos tentap jorter uduusoub orelofzup pacguj tigwe idbu sa ti besjachu wiev nudrimge. Abfosef wim zijihuawe fag setvaza vohak cihlif sulto uw hutpeka isisuc reloros za nauk cu sezaj tegafveb. Vu kidnan savujro wiwok bokif mof bete pirojgi won beodpe muhtof nutagi tuwemca lehe jisom ran azaodoefa ra. Kaj dul ufo bitha mu najciwi ado komgalo bi etekuobu duwuzu fopbuveme torohuha ir kewiv dolgu usagefip.",
+    "bio": "Pirtespib ujuferlic jogkiva dunatu fu mih razag zo inupodegu ilejuare sa majiw ni ucepisuj. Ubporegu aveasaca sepgava somoska capnah hoz vo du ker duovumov biko mizelje maso degbehne. Fojabhok vaer kifuufu wukuh si pekwuboc wuc sam ja gewefwo pip ra ogocuz calon im gif zotvegfif."
+  },
+  "apiKey": "b773a37473c1de84db09c6e5542c42959df674973cf65493191dd9aba1cff38a",
+  "currency": {
+    "code": "HTG",
+    "name": "Haiti Gourde"
+  }
+}
