@@ -1,0 +1,26 @@
+{
+  "name": "May Hogan",
+  "age": 51,
+  "address": {
+    "street": "Hiva Manor",
+    "city": "Cikara",
+    "state": "RI",
+    "zip": "81208"
+  },
+  "contact": {
+    "phone": "(657) 800-6530",
+    "servicePhone": "800345589"
+  },
+  "birthday": "2000-10-31T02:21:11.794Z",
+  "ip": "71.135.92.232",
+  "foo": "bar",
+  "profile": {
+    "about": "Ewawu afi wu jaeze jiappun luoh agara idazijmu romomfiw mojuh luc fohof caosiuto fu korcida lamub pecadsi. Ziggejej saje juduz hazeha ef vitsuzir ajeihuki gucim fefewa ri hucrukne pekadi nuz piwafane tazef weguse jo. Rovfud jusud ot udcevve ru ut ji hefeeme nimdi fereleno cuse lat zimi eha cetvuku.",
+    "bio": "Ofikinmow bizim duje limob kagjigoh lizze jinoh otupocde gafinba duk jedorbu merfice jotpob cep poavga isko ha culmi. Fefnicu go jivafap cod sodu gojec ipu annure ow uva duj wuuj. Cuv wa pocmoz jacepi kiromoijo jukcirew irzo muh sutem za weko ne topikzec pup lihpuz potziswar pi jah. Ucabohob mumleec radonacu soofuviv vus jo ik ma pifpuvis hiucwo newsed orizov eposigor asaf niw mirmeg."
+  },
+  "apiKey": "c1c195f4dde35751cb3d8a34998924a843ef196f320317539c45e6b749d50aee",
+  "currency": {
+    "code": "LBP",
+    "name": "Lebanon Pound"
+  }
+}
