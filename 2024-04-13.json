@@ -1,0 +1,26 @@
+{
+  "name": "Tony Schwartz",
+  "age": 39,
+  "address": {
+    "street": "Guaba Road",
+    "city": "Mogbave",
+    "state": "KS",
+    "zip": "69288"
+  },
+  "contact": {
+    "phone": "(700) 316-2764",
+    "servicePhone": "800285325"
+  },
+  "birthday": "1967-11-23T19:45:06.747Z",
+  "ip": "173.227.62.70",
+  "foo": "bar",
+  "profile": {
+    "about": "Do faico enuloj beguk cujdozep hotesuh gevijlu neg uwmopaze lawdi wo umira amerupcu. Sagboni or tiwweczez oco rog oho gosmip ji vomeodi bo fur cenmumet afgiez. Pub fabsu kuw wad om huefe wudjo misoco nonrovoc hi liakegok sa wotkunwaz.",
+    "bio": "Ifli pewloj waofehaw wucoz gihe ludifba ijkinwel edupi zomukag ge ip hudu leror lavosul zibci voluw. Vinepaw ucvon gupa haruvo azdoj cu aseun soz be rimrir paema joju ohotu zijlajil wabbuah. Daba cet wumokip guwperu jaze mu wupisci jinwa has dicumuk alejow hinu sus pimawbom. Foniwo mo zamrias fe wowewu hir le bem live uka etu agiga tiok lepcehul reehdik gov. Ur ej dob em denofar imurni paw ur hitbo vezihji coz cepvicbim. Na gafbup zev juk zejmo awawno nuatkoh efena wipas ar ikeowafid fenjic ehavod ibo agis ihe me. Duuvagi ive vi nugpupno kuturef wocarpoh zedab mi cosupfe ne unda rebhefa ibegivno af hi olosal."
+  },
+  "apiKey": "c761b20742238aafd107e27da4b99bcf03c2ada99c3995089c69d6b49dffcef8",
+  "currency": {
+    "code": "LYD",
+    "name": "Libya Dinar"
+  }
+}
