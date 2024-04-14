@@ -1,0 +1,26 @@
+{
+  "name": "Leroy Rhodes",
+  "age": 25,
+  "address": {
+    "street": "Okodeh View",
+    "city": "Vakbasgub",
+    "state": "MS",
+    "zip": "78444"
+  },
+  "contact": {
+    "phone": "(612) 353-4856",
+    "servicePhone": "800487932"
+  },
+  "birthday": "1965-04-11T20:50:03.725Z",
+  "ip": "194.18.74.144",
+  "foo": "bar",
+  "profile": {
+    "about": "Rakek te ruwta rupol na awo ubigo levezpe iwtiti wapisula wipistej hajozo faket inlajhu feovu perima olna. Jaztuvna tiwoufi ohumu ev tashagi jozuuki gu gipa buzvobho huhpuget uv delu co. Etab suvu hocasak noh ug osib keaz muninos ocoba cuzke falnebu legnej okjilon tuj mu fuhmuz ci.",
+    "bio": "Bek fifopun vopo levow cojuvuw coetle medzi sogpi co cunjifsu ni ame zimod ge ikjic. Oherullok lajlot ozu zuz jiokasa vad hobpacen jab bewac sobwefruh juko beuhka. Tejlaresi bu muvu bog mirjub reli fek tij us mo dovzaf jem miwe catiaca nuopali ja javepra."
+  },
+  "apiKey": "29f989c43e391957232a528b9e2b4c407880492b60d94ddf4eb8f78382ddd645",
+  "currency": {
+    "code": "AED",
+    "name": "United Arab Emirates Dirham"
+  }
+}
