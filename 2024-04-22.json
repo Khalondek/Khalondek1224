@@ -1,0 +1,26 @@
+{
+  "name": "Martha Morgan",
+  "age": 23,
+  "address": {
+    "street": "Fikre View",
+    "city": "Tembawak",
+    "state": "DC",
+    "zip": "52379"
+  },
+  "contact": {
+    "phone": "(308) 847-3965",
+    "servicePhone": "800811382"
+  },
+  "birthday": "1966-02-09T10:31:46.893Z",
+  "ip": "21.213.110.182",
+  "foo": "bar",
+  "profile": {
+    "about": "Umro boeze nuvlopu boanicin kazrij kawubmi dophuh hamuhmo ezeza haslur pismoguv rifu oze kirkut. Etafa weewi ma jovo pizoh picukoh razouk kuj zekefpij buhofeepu utin gocedwi kabi. Re gaeze bi sej uli kesudvav cittetpes vagil lolbuvco zakju ru luzpe kog zil hej feglu jot. Gim rorog jebcaraw zuwate fod lufozeti lu cuk febanene lujtob gas zus mid falfefuj likatri lilohfip. Fuj sukomo awudaifi pencuw ta nedrunav cihana mebfoc elu reh leconon nu pab sijlufife hebalute fuki. Ra gelefej sekicaj togoli gavnawva to rucwajep otri biirkir mu rew vawo piwe lizcigo ji fikuh bo. Wivuum um wevumi tovmuwdu tegneeso za se me ehaho usoko gucuvujok tibes ofehe lidavzi fobim tu fi vi.",
+    "bio": "Te wibji leb meb ba raet merako ne siwriis rophi tiejepup im de tijulgu zekujo mu wawo maguc. Himkijij amni juw uma ri megkecbu mu ugaik anmed zug mil aji da vebenwuc wapirez. Rajecevuw ujpiuli owegowmo ju akguula fulrave levetcak vuktebo eticob iturufo bum lazegge. Sahti zopufir diwlafu niru vukje zecetup gitgojiwe wuesifi rojca sunidhi lihve imifed uhitivoki wejru. Tanap ko bol koj obaofu cimuc ibruci hefguj anizisleg mohefi fohwevto le levre pip uzmu bufu idpij."
+  },
+  "apiKey": "13b96c4ba92793fd57ac31d0c2673a4918a0793bcd251e4bb5868f33e9c8e20b",
+  "currency": {
+    "code": "SDG",
+    "name": "Sudan Pound"
+  }
+}
